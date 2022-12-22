@@ -8,9 +8,13 @@
   </a>
 <!--   <img src="https://img.shields.io/badge/Youtube-red?logo=youtube&logoColor=white&style=for-the-badge" alt="Youtube Badge" /> -->
 </div>
-<div id="greeting" align="center">
-  Hi there 👋
+
+<div id="profile-views" align="center">
+  <img src="https://komarev.com/ghpvc/?username=sa1mont&style=flat-square&color=blue" alt="" />
 </div>
+<!-- <div id="greeting" align="center">
+  Hi there 👋
+</div> -->
 
 <!--
 **sa1mont/sa1mont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
