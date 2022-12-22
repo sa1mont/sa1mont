@@ -1,7 +1,17 @@
-### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/JKo6P5QyuFkuhLlfVq/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/JKo6P5QyuFkuhLlfVq/giphy.gif" width="100" />
 </div>
+
+<div id="social-networks" align="center">
+  <a href="https://vk.com/sa1monk">
+    <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white&style=for-the-badge" alt="VK Badge" />
+  </a>
+<!--   <img src="https://img.shields.io/badge/Youtube-red?logo=youtube&logoColor=white&style=for-the-badge" alt="Youtube Badge" /> -->
+</div>
+<div id="greeting" align="center">
+  Hi there 👋
+</div>
+
 <!--
 **sa1mont/sa1mont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
