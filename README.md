@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/JKo6P5QyuFkuhLlfVq/giphy.gif" width="100">
+</div>
 <!--
 **sa1mont/sa1mont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
