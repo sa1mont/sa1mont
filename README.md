@@ -2,11 +2,20 @@
   <img src="https://media.giphy.com/media/JKo6P5QyuFkuhLlfVq/giphy.gif" width="100" />
 </div>
 
-<div id="social-networks" align="center">
-  <a href="https://vk.com/sa1monk">
-    <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white&style=for-the-badge" alt="VK Badge" />
-  </a>
-<!--   <img src="https://img.shields.io/badge/Youtube-red?logo=youtube&logoColor=white&style=for-the-badge" alt="Youtube Badge" /> -->
+<h3></h3>
+<h1></h1>
+
+<div display="block" align="right">
+  <div id="social-networks">
+    <a href="https://vk.com/sa1monk">
+      <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white&style=for-the-badge" alt="VK Badge" />
+    </a>
+  </div>
+  <div id="my-gmail">
+    <a href="mailto:sa1montov@gmail.com">
+      <img src="https://img.shields.io/badge/gmail-grey?logo=gmail&logoColor=white&style=for-the-badge" alt="GMAIL Badge" />
+    </a>
+  </div>
 </div>
 
 <div id="profile-views" align="center">
