@@ -16,6 +16,16 @@
       <img src="https://img.shields.io/badge/gmail-grey?logo=gmail&logoColor=white&style=for-the-badge" alt="GMAIL Badge" />
     </a>
   </div>
+  <div id="my-leetcode">
+    <a href="https://leetcode.com/sa1mont/">
+      <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+    </a>
+  </div>
+  <div id="my-codewars">
+    <a href="https://www.codewars.com/users/sa1mont">
+      <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />
+    </a>
+  </div>
 </div>
 
 <div id="profile-views" align="center">
