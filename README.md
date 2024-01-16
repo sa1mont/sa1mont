@@ -4,29 +4,32 @@
 
 <h3></h3>
 <h1></h1>
-
-<div display="block" align="right">
-  <div id="social-networks">
-    <a href="https://vk.com/sa1monk">
-      <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white&style=for-the-badge" alt="VK Badge" />
-    </a>
-  </div>
-  <div id="my-gmail">
-    <a href="mailto:sa1montov@gmail.com">
-      <img src="https://img.shields.io/badge/gmail-grey?logo=gmail&logoColor=white&style=for-the-badge" alt="GMAIL Badge" />
-    </a>
-  </div>
-  <div id="my-leetcode">
-    <a href="https://leetcode.com/sa1mont/">
-      <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-    </a>
-  </div>
-  <div id="my-codewars">
-    <a href="https://www.codewars.com/users/sa1mont">
-      <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />
-    </a>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sa1mont&theme=blue-green" />
+  <div display="inline" align="right">
+    <div id="social-networks">
+      <a href="https://vk.com/sa1monk">
+        <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white&style=for-the-badge" alt="VK Badge" />
+      </a>
+    </div>
+    <div id="my-gmail">
+      <a href="mailto:sa1montov@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-grey?logo=gmail&logoColor=white&style=for-the-badge" alt="GMAIL Badge" />
+      </a>
+    </div>
+    <div id="my-leetcode">
+      <a href="https://leetcode.com/sa1mont/">
+        <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+      </a>
+    </div>
+    <div id="my-codewars">
+      <a href="https://www.codewars.com/users/sa1mont">
+        <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />
+      </a>
+    </div>
   </div>
 </div>
+
 <div>
   <h2>My skills</h2>
   <h3>100%</h3><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -41,6 +44,8 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=sa1mont&theme=blue-green" />
+  
 <h2></h2>
 <div id="profile-views" align="center">
   <img src="https://komarev.com/ghpvc/?username=sa1mont&style=flat-square&color=blue" alt="" />
