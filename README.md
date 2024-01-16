@@ -5,8 +5,8 @@
 <h3></h3>
 <h1></h1>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sa1mont&theme=blue-green" />
   <div display="inline" align="right">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sa1mont&theme=blue-green" align="left"/>
     <div id="social-networks">
       <a href="https://vk.com/sa1monk">
         <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white&style=for-the-badge" alt="VK Badge" />
