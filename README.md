@@ -29,9 +29,7 @@
 </div>
 <div>
   <h2>My skills</h2>
-  <div>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  </div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 <div id="profile-views" align="center">
