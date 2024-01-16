@@ -27,6 +27,12 @@
     </a>
   </div>
 </div>
+<div>
+  <h2></h2>My skill
+  <div>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </div>
+</div>
 
 <div id="profile-views" align="center">
   <img src="https://komarev.com/ghpvc/?username=sa1mont&style=flat-square&color=blue" alt="" />
