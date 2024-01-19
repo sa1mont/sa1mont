@@ -44,9 +44,9 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div>
-  <img src="https://github-readme-stats.vercel.app/api?username=sa1mont&theme=blue-green" />
-  
+    
 <h2></h2>
+
 <div id="profile-views" align="center">
   <img src="https://komarev.com/ghpvc/?username=sa1mont&style=flat-square&color=blue" alt="" />
 </div>
