@@ -45,7 +45,14 @@
   <h3>10+%</h3><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
     
-<h2></h2>
+<div>
+  <h2>Мои проекты</h2>
+  <h3>Простые:</h3>
+  <a href="https://github.com/sa1mont/Calculator">Калькулятор</a>
+</div>
+<div id="profile-views" align="center">
+  <img src="https://komarev.com/ghpvc/?username=sa1mont&style=flat-square&color=blue" alt="" />
+</div>
 
 <div id="profile-views" align="center">
   <img src="https://komarev.com/ghpvc/?username=sa1mont&style=flat-square&color=blue" alt="" />
