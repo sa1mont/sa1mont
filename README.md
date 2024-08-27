@@ -48,7 +48,7 @@
 <div>
   <h2>Мои проекты</h2>
   <h3>Простые:</h3>
-  <a href="https://github.com/sa1mont/Calculator">🧮Калькулятор</a><br>
+  <a href="https://github.com/sa1mont/Calculator" style="font-size: 16">🧮Калькулятор</a><br>
   <a href="https://github.com/sa1mont/Guess-the-number">🎲Игра "Угадай число"</a><br>
   <a href="https://github.com/sa1mont/Magic-ball-8">🎱Шар судьбы</a><br>
   <a href="https://github.com/sa1mont/Password-generator">👨‍💻Генератор паролей</a><br>
