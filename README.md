@@ -48,12 +48,12 @@
 <div>
   <h2>Мои проекты</h2>
   <h3>Простые:</h3>
-  <a href="https://github.com/sa1mont/Calculator">🧮Калькулятор</a>
-  <a href="https://github.com/sa1mont/Guess-the-number">🎲Игра "Угадай число"</a>
-  <a href="https://github.com/sa1mont/Magic-ball-8">🎱Шар судьбы</a>
-  <a href="https://github.com/sa1mont/Password-generator">👨‍💻Генератор паролей</a>
-  <a href="https://github.com/sa1mont/Caesar-Cipher">🕵️‍♂️Шифр Цезаря</a>
-  <a href="https://github.com/sa1mont/To-Do-List-withoutDB">🎯Менеджер задач (без базы данных)</a>
+  <a href="https://github.com/sa1mont/Calculator">🧮Калькулятор</a><br>
+  <a href="https://github.com/sa1mont/Guess-the-number">🎲Игра "Угадай число"</a><br>
+  <a href="https://github.com/sa1mont/Magic-ball-8">🎱Шар судьбы</a><br>
+  <a href="https://github.com/sa1mont/Password-generator">👨‍💻Генератор паролей</a><br>
+  <a href="https://github.com/sa1mont/Caesar-Cipher">🕵️‍♂️Шифр Цезаря</a><br>
+  <a href="https://github.com/sa1mont/To-Do-List-withoutDB">🎯Менеджер задач (без базы данных)</a><br>
   
 </div>
 
