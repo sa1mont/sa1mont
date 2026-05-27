@@ -30,6 +30,7 @@
   </div>
 </div>
 
+
 <div>
   <h2>My skills</h2>
   <h3>100%</h3>
@@ -48,18 +49,28 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <h3>10+%</h3><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
-    
-<div>
-  <h2>Мои проекты</h2>
-  <h3>Простые:</h3>
-  <a href="https://github.com/sa1mont/Calculator">🧮Калькулятор</a><br>
-  <a href="https://github.com/sa1mont/Guess-the-number">🎲Игра "Угадай число"</a><br>
-  <a href="https://github.com/sa1mont/Magic-ball-8">🎱Шар судьбы</a><br>
-  <a href="https://github.com/sa1mont/Password-generator">👨‍💻Генератор паролей</a><br>
-  <a href="https://github.com/sa1mont/Caesar-Cipher">🕵️‍♂️Шифр Цезаря</a><br>
-  <a href="https://github.com/sa1mont/To-Do-List-withoutDB">🎯Менеджер задач (без базы данных)</a><br>
-  
-</div>
+
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <h2 style="color: white; margin-top: 0;">My projects</h2>
+  <tr style="border: none;">
+    <!-- Левая колонка (Простые) -->
+    <td width="50%" valign="top" style="border: none; padding: 10px; background-color: #21262d; border-radius: 6px;">
+      <h3 style="color: white;">Easy:</h3>
+      <a href="https://github.com/sa1mont/Calculator" style="color: #58a6ff;">🧮 Калькулятор</a><br>
+      <a href="https://github.com/sa1mont/Guess-the-number" style="color: #58a6ff;">🎲 Игра "Угадай число"</a><br>
+      <a href="https://github.com/sa1mont/Magic-ball-8" style="color: #58a6ff;">🎱 Шар судьбы</a><br>
+      <a href="https://github.com/sa1mont/Password-generator" style="color: #58a6ff;">👨‍💻 Генератор паролей</a><br>
+      <a href="https://github.com/sa1mont/Caesar-Cipher" style="color: #58a6ff;">🕵️‍♂️ Шифр Цезаря</a><br>
+      <a href="https://github.com/sa1mont/To-Do-List-withoutDB" style="color: #58a6ff;">🎯 Менеджер задач (без базы данных)</a><br>
+    </td>
+    <!-- Правая колонка (Сложные) -->
+    <td width="50%" valign="top" style="border: none; padding: 10px; background-color: #238636; border-radius: 6px;">
+      <h3 style="color: white; margin-top: 0;">Hard:</h3>
+      <a style="color: white; text-decoration: none;">📋 TaskForge API (in progress)</a>
+    </td>
+  </tr>
+</table>
+
 
 <div id="profile-views" align="center">
   <img src="https://komarev.com/ghpvc/?username=sa1mont&style=flat-square&color=blue" alt="" />
