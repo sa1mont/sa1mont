@@ -66,7 +66,7 @@
     <!-- Правая колонка (Сложные) -->
     <td width="50%" valign="top" style="border: none; padding: 10px; background-color: #238636; border-radius: 6px;">
       <h3 style="color: white; margin-top: 0;">Hard:</h3>
-      <a style="color: white; text-decoration: none;">📋 TaskForge API (in progress)</a>
+      <a style="color: white; text-decoration: none;">📋 TaskForge API (in progress)</a><br>
       <a style="color: white; text-decoration: none;">🤖 Olympiad Center Assistant in MAX (in progress)</a>
     </td>
   </tr>
